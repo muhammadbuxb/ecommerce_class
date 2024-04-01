@@ -184,7 +184,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     price: '699'),
                               ));
                         },
-                        title: 'Shirt',
+                        title: '',
                         price: '799',
                       ),
                       ProductCardWidget(
